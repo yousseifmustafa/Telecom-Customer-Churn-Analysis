@@ -65,7 +65,7 @@ Key analysis performed:
 Several ML classifiers were tested including:
 
 - **Logistic Regression**
-- **Decision Tree**
+- **GradientBoosting**
 - **Random Forest**
 
 The models were evaluated using:
@@ -106,7 +106,7 @@ This project helped us:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/telecom-churn-analysis.git
+git clone [https://github.com/yousseifmustafa/Telecom-Customer-Churn-Analysis.git]
 ```
 2. Install requirements:
 ```bash
