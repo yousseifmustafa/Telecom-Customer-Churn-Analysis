@@ -2,7 +2,7 @@
 # 📊 Telecom Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-yellow?logo=pandas)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## 👋 Overview
@@ -84,11 +84,10 @@ The models were evaluated using:
 
 | Model             | Accuracy | Precision | Recall | F1-score |
 |------------------|----------|-----------|--------|----------|
-| LogisticRegression | XX%      | XX%       | XX%    | XX%      |
-| Decision Tree     | XX%      | XX%       | XX%    | XX%      |
-| Random Forest     | ✅ **XX%**  | ✅ **XX%**   | ✅ **XX%**  | ✅ **XX%**    |
+| LogisticRegression | 95%      | 94%       | 86%    | 90%      |
+| GradientBoosting     | 95%      | 94%       | 87%    | 90%      |
+| Random Forest     | ✅ **96%**  | ✅ **97%**   | ✅ **86%**  | ✅ **91%**    |
 
-_(Replace XX% with actual values if you like)_
 
 ---
 
