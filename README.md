@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow?logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet?logo=seaborn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Churn Accuracy](https://img.shields.io/badge/Accuracy-96%25-green)
