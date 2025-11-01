@@ -124,8 +124,6 @@ jupyter notebook telecom.ipynb
 
 ---
 
----
-
 <div align="right">
     Made with ❤️ by <a href="https://github.com/yousseifmustafa">Yousseif Mustafa</a>
 </div>
