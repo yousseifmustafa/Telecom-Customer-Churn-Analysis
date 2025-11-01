@@ -124,9 +124,8 @@ jupyter notebook telecom.ipynb
 
 ---
 
-## 📬 Contact
+---
 
-For feedback or collaboration, feel free to reach out:
-
-- GitHub: [@yousseifmustafa](https://github.com/yousseifmustafa)
-- Email: yousseifmustafa2296@gmail.com
+<div align="right">
+    Made with ❤️ by <a href="https://github.com/yousseifmustafa">Yousseif Mustafa</a>
+</div>
